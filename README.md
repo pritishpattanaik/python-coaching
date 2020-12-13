@@ -2,7 +2,7 @@
 Complete guide of Python programming with Apache superset, Elasticsearch and PostgreSQL. 
 
 
-## Table of Contents
+## Table of Contents Python Syllabus
 
 1. **Getting Started**
     - [What is Python](src/getting_started/what_is_python.md)
@@ -69,4 +69,31 @@ Complete guide of Python programming with Apache superset, Elasticsearch and Pos
     - [Mathematics](src/standard_libraries/test_math.py) (`math`, `random`, `statistics` libraries)
     - [Dates and Times](src/standard_libraries/test_datetime.py) (`datetime` library)
     - [Data Compression](src/standard_libraries/test_zlib.py) (`zlib` library)
+
+## Apache Superset, Docker, Jenkins, PostgreSQL/MySQL
+
+1. **Apache superset 
+    - [Installation of Apache superset]
+    - [Quick overview of Apache superset architechture]
+    - [Slice and Dice features]
+    - [Create and Publish dashboard]
+2. **PostgreSQL/MySQL 
+    - [Installation of MySQL/PostgreSQL]
+    - [Connect to Database using Shell script]
+    - [Connect to Database using Python Library]
+    - [Query Database and fetch results to different file format]
+    - [Integration with Apache Superset and create ETL jobs]
+3. **Docker, Jenkings, git/GitHub and other Tool 
+    - [Installation of all of them]
+    - [Overview and walk through most features of Docket and Jenkins]]
+4. **Capstone Project 
+    - [Create, analysis and review CP for requirements of Final projects]
+    - [IA, Estimation and Scoping]
+    4.1 **Covid-19 real time Dashboard 
+    4.2 **API gateway to collect feeds from social networks. 
+    4.3 **Create, build and deploy ITSM helpdesk tool 
+    
+    
+
+
 
