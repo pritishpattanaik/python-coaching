@@ -89,9 +89,9 @@ Complete guide of Python programming with Apache superset, Elasticsearch and Pos
 4. **Capstone Project 
     - [Create, analysis and review CP for requirements of Final projects]
     - [IA, Estimation and Scoping]
-    4.1 **Covid-19 real time Dashboard 
-    4.2 **API gateway to collect feeds from social networks. 
-    4.3 **Create, build and deploy ITSM helpdesk tool 
+    - [Covid-19 real time Dashboard]
+    - [API gateway to collect feeds from social networks]
+    - [Create, build and deploy ITSM helpdesk tool]
     
     
 
